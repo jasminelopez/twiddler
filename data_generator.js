@@ -20,6 +20,7 @@ var addTweet = function(newTweet){
   streams.home.push(newTweet);
 };
 
+
 // utility function
 var randomElement = function(array){
   var randomIndex = Math.floor(Math.random() * array.length);

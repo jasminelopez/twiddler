@@ -2,13 +2,34 @@ body {
 	background-color: #3aafa9;
 }
 
+.page-top{
+	background-color: #17252a;
+	margin: 0 auto;
+	border-radius: 5px;
+	width: 500px;
+	height:50px;
+}
 
+.top {
+	color: #feffff;
+	font-size: 22px;
+	float: right;
+	margin: 4px;
+	font-family: Helvetica;
+}
 
 .button-container {
 	background-color: #def2f1;
 	margin: 0 auto;
-	width: 400px;
+	border-radius: 5px;
+	text-align: center;
+	width: 500px;
 	height: 50px;
+}
+
+.newtweets {
+	justify-content: center;
+	margin-top: 20px;
 }
 
 
@@ -18,6 +39,14 @@ Tweets
 
 */
 
+.username {
+	color: #2b7a78;
+}
+
+#message {
+	color: black;
+}
+
 .tweet-container {
 	margin: 0 auto;
 	width: 500px;
@@ -25,8 +54,18 @@ Tweets
 
 .tweets {	
 	background-color: #feffff;
-	margin: 5px;
+	margin: 2px;
 	border-radius: 5px;
 	font-family: Roboto, arial;
 	font-size: 14px;
 }
+
+/*
+shawn
+*/
+
+.shawn-tweet-container {
+	margin: 0 auto;
+	width: 500px;
+}
+
