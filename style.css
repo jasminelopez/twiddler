@@ -51,7 +51,7 @@ Tweets
 }
 
 #message {
-	color: black;
+	color: #17252a;
 }
 
 .tweet-container {
@@ -60,36 +60,18 @@ Tweets
 	width: 500px;
 }
 
+.profile-container {
+	margin: 0 auto;
+	height: 50px;
+	width: 500px;
+}
+
 .tweets {	
 	background-color: #feffff;
 	margin: 2px;
-	border-radius: 5px;
+	border-radius: 2px;
 	font-family: Roboto, arial;
 	font-size: 14px;
-}
-
-/*
-shawn
-*/
-
-.shawn-tweet-container {
-	margin: 0 auto;
-	width: 500px;
-}
-
-.douglas-tweet-container {
-	margin: 0 auto;
-	width: 500px;
-}
-
-.mracus-tweet-container {
-	margin: 0 auto;
-	width: 500px;
-}
-
-.sharks-tweet-container {
-	margin: 0 auto;
-	width: 500px;
 }
 
 
